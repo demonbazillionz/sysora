@@ -32,3 +32,5 @@ Sysora currently requires:
 ```bash
 git clone https://github.com/demonbazillionz/sysora.git
 cd sysora
+./install.sh
+./run.sh
