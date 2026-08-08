@@ -4,18 +4,18 @@
 
 It provides a graphical interface for monitoring and managing important parts of a Linux system from one place.
 
-## ✨ Features
+## Features
 
-- 🖥️ System information
-- 📊 CPU monitoring
-- 🧠 RAM monitoring
-- 💾 Storage information
-- ⚙️ Process management
-- 📦 Package information
-- 🎨 Modern graphical interface
-- 🐧 Linux-focused system utilities
+- System information
+- CPU monitoring
+- RAM monitoring
+- Storage information
+- Process management
+- Package information
+- Modern graphical interface
+- Linux-focused system utilities
 
-## 🐧 Requirements
+## Requirements
 
 Sysora currently requires:
 
@@ -25,9 +25,9 @@ Sysora currently requires:
 - PySide6
 - psutil
 
-## 🚀 Installation
+## Installation
 
-### 1. Clone Sysora
+Run this whole command in your linux terminal
 
 ```bash
 git clone https://github.com/demonbazillionz/sysora.git
